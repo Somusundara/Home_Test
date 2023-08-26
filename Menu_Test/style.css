@@ -1,0 +1,32 @@
+h1{
+
+   background-color: lightgray;
+      text-align: center;
+   padding: 30px;
+   border: 20px;
+   margin-top: 25px;
+   margin:  25px 10px 25px;
+      }
+   div{
+background-color: gray;
+margin-top: 5px;
+text-align: center;
+padding: 30px;
+margin:  25px 10px 25px
+   }
+   section{
+background-color:whitesmoke;
+margin-top: 5px;
+text-align: center;
+padding: 150px;
+margin:  25px 10px 25px
+   }
+   footer{
+
+      background-color: gray;
+      margin-top: 10px;
+      text-align: center;
+      padding: 30px;
+      margin:  25px 10px 25px
+   }
+   
